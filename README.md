@@ -4,3 +4,4 @@ WEBクローリング機能を実装するためのPythonライブラリ、Scrap
 ## Scrapyインストール方法
 pip install -U pip
 pip install scrapy
+## 起動方法
