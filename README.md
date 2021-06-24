@@ -5,3 +5,4 @@ WEBクローリング機能を実装するためのPythonライブラリ、Scrap
 pip install -U pip
 pip install scrapy
 ## 起動方法
+scrapy genspider scrapy_founder_spider
